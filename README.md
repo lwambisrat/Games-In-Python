@@ -19,8 +19,11 @@ Example Output
 Code
 
 Hi! Welcome to the Number Guessing Game.
+
 You have 7 chances to guess the number. Let's start!
+
 Enter the Lower Bound: 0
+
 Enter the Upper Bound: 100
 
 You have 7 chances to guess the number between 0 and 100. Let's start!
